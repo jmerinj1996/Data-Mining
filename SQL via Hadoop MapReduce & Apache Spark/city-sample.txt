@@ -1,0 +1,100 @@
+1	Kabul	AFG	Kabol	1780000
+2	Qandahar	AFG	Qandahar	237500
+3	Herat	AFG	Herat	186800
+4	Mazar-e-Sharif	AFG	Balkh	127800
+5	Amsterdam	NLD	Noord-Holland	731200
+6	Rotterdam	NLD	Zuid-Holland	593321
+7	Haag	NLD	Zuid-Holland	440900
+8	Utrecht	NLD	Utrecht	234323
+9	Eindhoven	NLD	Noord-Brabant	201843
+10	Tilburg	NLD	Noord-Brabant	193238
+11	Groningen	NLD	Groningen	172701
+12	Breda	NLD	Noord-Brabant	160398
+13	Apeldoorn	NLD	Gelderland	153491
+14	Nijmegen	NLD	Gelderland	152463
+15	Enschede	NLD	Overijssel	149544
+16	Haarlem	NLD	Noord-Holland	148772
+17	Almere	NLD	Flevoland	142465
+18	Arnhem	NLD	Gelderland	138020
+19	Zaanstad	NLD	Noord-Holland	135621
+20	Â´s-Hertogenbosch	NLD	Noord-Brabant	129170
+21	Amersfoort	NLD	Utrecht	126270
+22	Maastricht	NLD	Limburg	122087
+23	Dordrecht	NLD	Zuid-Holland	119811
+24	Leiden	NLD	Zuid-Holland	117196
+25	Haarlemmermeer	NLD	Noord-Holland	110722
+26	Zoetermeer	NLD	Zuid-Holland	110214
+27	Emmen	NLD	Drenthe	105853
+28	Zwolle	NLD	Overijssel	105819
+29	Ede	NLD	Gelderland	101574
+30	Delft	NLD	Zuid-Holland	95268
+31	Heerlen	NLD	Limburg	95052
+32	Alkmaar	NLD	Noord-Holland	92713
+33	Willemstad	ANT	CuraÃ§ao	2345
+34	Tirana	ALB	Tirana	270000
+35	Alger	DZA	Alger	2168000
+36	Oran	DZA	Oran	609823
+37	Constantine	DZA	Constantine	443727
+38	Annaba	DZA	Annaba	222518
+39	Batna	DZA	Batna	183377
+40	SÃ©tif	DZA	SÃ©tif	179055
+41	Sidi Bel AbbÃ¨s	DZA	Sidi Bel AbbÃ¨s	153106
+42	Skikda	DZA	Skikda	128747
+43	Biskra	DZA	Biskra	128281
+44	Blida (el-Boulaida)	DZA	Blida	127284
+45	BÃ©jaÃ¯a	DZA	BÃ©jaÃ¯a	117162
+46	Mostaganem	DZA	Mostaganem	115212
+47	TÃ©bessa	DZA	TÃ©bessa	112007
+48	Tlemcen (Tilimsen)	DZA	Tlemcen	110242
+49	BÃ©char	DZA	BÃ©char	107311
+50	Tiaret	DZA	Tiaret	100118
+51	Ech-Chleff (el-Asnam)	DZA	Chlef	96794
+52	GhardaÃ¯a	DZA	GhardaÃ¯a	89415
+53	Tafuna	ASM	Tutuila	5200
+54	Fagatogo	ASM	Tutuila	2323
+55	Andorra la Vella	AND	Andorra la Vella	21189
+56	Luanda	AGO	Luanda	2022000
+57	Huambo	AGO	Huambo	163100
+58	Lobito	AGO	Benguela	130000
+59	Benguela	AGO	Benguela	128300
+60	Namibe	AGO	Namibe	118200
+61	South Hill	AIA	Â–	961
+62	The Valley	AIA	Â–	595
+63	Saint JohnÂ´s	ATG	St John	24000
+64	Dubai	ARE	Dubai	669181
+65	Abu Dhabi	ARE	Abu Dhabi	398695
+66	Sharja	ARE	Sharja	320095
+67	al-Ayn	ARE	Abu Dhabi	225970
+68	Ajman	ARE	Ajman	114395
+69	Buenos Aires	ARG	Distrito Federal	2982146
+70	La Matanza	ARG	Buenos Aires	1266461
+71	CÃ³rdoba	ARG	CÃ³rdoba	1157507
+72	Rosario	ARG	Santa FÃ©	907718
+73	Lomas de Zamora	ARG	Buenos Aires	622013
+74	Quilmes	ARG	Buenos Aires	559249
+75	Almirante Brown	ARG	Buenos Aires	538918
+76	La Plata	ARG	Buenos Aires	521936
+77	Mar del Plata	ARG	Buenos Aires	512880
+78	San Miguel de TucumÃ¡n	ARG	TucumÃ¡n	470809
+79	LanÃºs	ARG	Buenos Aires	469735
+80	Merlo	ARG	Buenos Aires	463846
+81	General San MartÃ­n	ARG	Buenos Aires	422542
+82	Salta	ARG	Salta	367550
+83	Moreno	ARG	Buenos Aires	356993
+84	Santa FÃ©	ARG	Santa FÃ©	353063
+85	Avellaneda	ARG	Buenos Aires	353046
+86	Tres de Febrero	ARG	Buenos Aires	352311
+87	MorÃ³n	ARG	Buenos Aires	349246
+88	Florencio Varela	ARG	Buenos Aires	315432
+89	San Isidro	ARG	Buenos Aires	306341
+90	Tigre	ARG	Buenos Aires	296226
+91	Malvinas Argentinas	ARG	Buenos Aires	290335
+92	Vicente LÃ³pez	ARG	Buenos Aires	288341
+93	Berazategui	ARG	Buenos Aires	276916
+94	Corrientes	ARG	Corrientes	258103
+95	San Miguel	ARG	Buenos Aires	248700
+96	BahÃ­a Blanca	ARG	Buenos Aires	239810
+97	Esteban EcheverrÃ­a	ARG	Buenos Aires	235760
+98	Resistencia	ARG	Chaco	229212
+99	JosÃ© C. Paz	ARG	Buenos Aires	221754
+100	ParanÃ¡	ARG	Entre Rios	207041
